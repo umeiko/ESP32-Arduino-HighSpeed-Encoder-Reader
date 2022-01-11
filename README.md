@@ -6,3 +6,6 @@
 同时使用硬件时钟进行定时采样存储。
 
 附带了一个上位机代码，展示了如何解码数据并以示波器的形式展示。
+![image](https://user-images.githubusercontent.com/58870893/148884687-7368cae5-f25e-4bf2-960c-1b5910d7d847.png)
+
+【注意】串口信息请提前在config.json中设置，再运行代码。
