@@ -1,0 +1,7 @@
+{
+       "PORT_NAME": "COM6",
+       "BAUDRATE" : 250000,
+       "TIME_INTERVAL" : 5.0E-3,
+       "FILTER_LEN": 25,
+       "MAXLEN" : 500
+}
